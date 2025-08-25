@@ -1,1 +1,1 @@
-SqLite and expressed used here to make a complete backend with authentication 
+SqLite and Express used here to make a complete backend with authentication 
